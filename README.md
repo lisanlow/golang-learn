@@ -2,7 +2,7 @@
 
 To run application:
 
-1. go build hello.go
+1. go build
 
    go install
    
